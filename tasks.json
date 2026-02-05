@@ -1,0 +1,101 @@
+[
+    {
+        "id": "65bf001",
+        "titre": "Installation Serveur",
+        "description": "Configurer Apache et PHP sur le serveur local",
+        "priorite": "haute",
+        "statut": "termin\u00e9e",
+        "date_creation": "2026-01-10 08:00",
+        "date_limite": "2026-01-12"
+    },
+    {
+        "id": "65bf002",
+        "titre": "Conception Base de Donn\u00e9es",
+        "description": "Cr\u00e9er le sch\u00e9ma JSON pour le mini projet",
+        "priorite": "haute",
+        "statut": "termin\u00e9e",
+        "date_creation": "2026-01-15 10:30",
+        "date_limite": "2026-01-16"
+    },
+    {
+        "id": "65bf003",
+        "titre": "Correction Bug Formulaire",
+        "description": "R\u00e9parer l'envoi des donn\u00e9es vers tasks.json",
+        "priorite": "haute",
+        "statut": "en cours",
+        "date_creation": "2026-02-01 09:00",
+        "date_limite": "2026-02-03"
+    },
+    {
+        "id": "65bf004",
+        "titre": "Rapport Semestre 1",
+        "description": "R\u00e9diger le rapport final pour L2 IAGE",
+        "priorite": "moyenne",
+        "statut": "\u00e0 faire",
+        "date_creation": "2026-02-01 14:00",
+        "date_limite": "2026-02-01"
+    },
+    {
+        "id": "65bf005",
+        "titre": "Design Dashboard",
+        "description": "Int\u00e9grer le CSS inspir\u00e9 de AdminLTE",
+        "priorite": "moyenne",
+        "statut": "en cours",
+        "date_creation": "2026-02-02 11:20",
+        "date_limite": "2026-02-05"
+    },
+    {
+        "id": "65bf006",
+        "titre": "R\u00e9union GDA",
+        "description": "Discuter des avancements du projet avec l'\u00e9quipe",
+        "priorite": "basse",
+        "statut": "termin\u00e9e",
+        "date_creation": "2026-01-20 16:00",
+        "date_limite": "2026-01-20"
+    },
+    {
+        "id": "65bf007",
+        "titre": "Test des Filtres",
+        "description": "V\u00e9rifier si le filtrage par statut fonctionne",
+        "priorite": "moyenne",
+        "statut": "\u00e0 faire",
+        "date_creation": "2026-02-03 08:45",
+        "date_limite": "2026-02-07"
+    },
+    {
+        "id": "65bf008",
+        "titre": "Optimisation PHP",
+        "description": "Am\u00e9liorer la vitesse de lecture du fichier JSON",
+        "priorite": "basse",
+        "statut": "\u00e0 faire",
+        "date_creation": "2026-02-03 15:30",
+        "date_limite": "2026-02-15"
+    },
+    {
+        "id": "65bf009",
+        "titre": "Backup des Donn\u00e9es",
+        "description": "Faire une copie de sauvegarde du fichier tasks.json",
+        "priorite": "haute",
+        "statut": "\u00e0 faire",
+        "date_creation": "2026-02-04 10:00",
+        "date_limite": "2026-02-04"
+    },
+    {
+        "id": "65bf010",
+        "titre": "Pr\u00e9sentation Finale",
+        "description": "Pr\u00e9parer les slides pour la soutenance",
+        "priorite": "haute",
+        "statut": "\u00e0 faire",
+        "date_creation": "2026-02-04 12:00",
+        "date_limite": "2026-02-20"
+    },
+    {
+        "id": "6983e96913929",
+        "titre": "dormire",
+        "description": "pouloulou",
+        "priorite": "moyenne",
+        "statut": "\u00e0 faire",
+        "date_creation": "2026-02-05 01:50",
+        "date_limite": "4555-12-12"
+    }
+]

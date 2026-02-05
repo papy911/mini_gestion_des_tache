@@ -28,8 +28,6 @@ Permettre de changer le statut d’une tâche :
 • à faire → en cours → terminée 
 • le changement se fait par un clic (lien) 
 1 
-Aicha J. Diagne – 777667327 
-MINI PROJET PHP L2 IAGE-GDA 2026 SEMESTRE 1 
 Suppression 
 • permettre la suppression d’une tâche 
 • mettre à jour le fichier JSON après suppression 
